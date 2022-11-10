@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_bottom_save"
+        android:enabled="true"
+        android:icon="@drawable/ic_save_amarelo"
+        android:title="Salvar"/>
+    <item
+        android:id="@+id/item_bottom_share"
+        android:enabled="true"
+        android:icon="@drawable/ic_share_amarelo"
+        android:title="Compartilhar"/>
+</menu>

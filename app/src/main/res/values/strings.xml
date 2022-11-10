@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ViaCep</string>
+    <string name="local">Local</string>
+    <string name="todo">TODO</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="buscar">Buscar</string>
+    <string name="cep_procurado">CEP Procurado:</string>
+    <string name="logradouro2">Logradouro:</string>
+    <string name="endere_o_n_o_localizado">Não Localizado</string>
+    <string name="bairro2">Bairro:</string>
+    <string name="cidade2">Cidade:</string>
+    <string name="estado_pa_s">Estado / País:</string>
+    <string name="barra">/</string>
+    <string name="brasil">Brasil</string>
+    <string name="insira_os_dados_abaixo_caso_queira_ncompartilhar_um_endere_o_completo">Insira os dados abaixo caso queira \ncompartilhar um endereço completo</string>
+    <string name="n_mero">Número</string>
+    <string name="complemento">Complemento</string>
+    <string name="para_quem_voc_deseja_compartilhar">Para quem você deseja compartilhar?</string>
+    <string name="digite_um_n_mero_de_whatsapp">Digite um número de WhatsApp</string>
+    <string name="busca_por_endereco">Busca por Endereço:</string>
+    <string name="busca_por_cep">Busca por CEP:</string>
+</resources>

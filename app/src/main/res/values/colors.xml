@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="verde_desbotado">#03DAC5</color>
+    <color name="verde_desbotado_escuro">#FF018786</color>
+    <color name="verde_desbotado_claro">#C8F7F2</color>
+    <color name="amarelo_header">#FF9800</color>
+    <color name="amarelo_dark">#FFC107</color>
+    <color name="amarelo_claro">#F2BF80</color>
+    <color name="cinza_claro">#F0F0F0</color>
+    <color name="cinza_escuro">#242424</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="verde_degrade">#00f38d</color>
+    <color name="azul_degrade">#009eff</color>
+    <color name="background_dark_1">#22252D</color>
+    <color name="background_dark_2">#292D36</color>
+    <color name="icon_tint_default">#2B2828</color>
+
+</resources>

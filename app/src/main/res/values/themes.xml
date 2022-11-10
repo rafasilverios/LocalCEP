@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ViaCep" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/verde_desbotado</item>
+        <item name="colorPrimaryVariant">@color/amarelo_header</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/verde_desbotado</item>
+        <item name="colorSecondaryVariant">@color/verde_desbotado</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="BackgroundActivity" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:background">@color/cinza_claro</item>
+    </style>
+
+    <style name="CardViewBackground" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:backgroundTint">@color/white</item>
+    </style>
+
+    <style name="BottomNav" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="TextColor" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Icon" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:src">@drawable/ic_copy</item>
+    </style>
+
+    <style name="BackgroundToolbar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:background">@color/amarelo_header</item>
+    </style>
+</resources>
